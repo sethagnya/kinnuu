@@ -1,0 +1,6 @@
+{
+  "name": "CROCOO",
+  "description": "Premium Futuristic Streetwear Brand Dashboard and E-commerce Experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
